@@ -1,5 +1,5 @@
 <h1>CPool-Part-2</h1>
-<p>{EPITECH} -- First year -- The end of projects and rush</p>
+<h3>{EPITECH} -- First year -- The end of projects and rush</h3>
 
 <p>Cpool Part 2 unit : Grade C</p>
 
